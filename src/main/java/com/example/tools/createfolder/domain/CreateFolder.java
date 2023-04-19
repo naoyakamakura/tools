@@ -1,4 +1,4 @@
-package com.example.tools.createfolder.application.domain;
+package com.example.tools.createfolder.domain;
 
 import java.io.IOException;
 import java.nio.file.Files;
